@@ -46,4 +46,4 @@ Please keep in mind that offsetting linkage numbers between two adjacent sites d
 
 Last update
 ------
-These data were updated using the MER structured dataset, fiscal year 2018 Q2 clean data.  
+These data were updated using the MER structured dataset, fiscal year 2018 Q4 clean data.  
